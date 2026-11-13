@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "fruitsdelight:lemon",
+      "required": false
+    },
+    {
+      "id": "fruitsdelight:orange",
+      "required": false
+    },
+    {
+      "id": "atmospheric:orange",
+      "required": false
+    },
+    {
+      "id": "extradelight:orange",
+      "required": false
+    },
+    {
+      "id": "extradelight:lemon",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:lemon",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "itemGroup.czfarmersdelightunify": "Farmer's Delight Unify",
+
+  "czfarmersdelightunify.configuration.title": "Farmers Delight Unify Configs",
+  "czfarmersdelightunify.configuration.section.czfarmersdelightunify.common.toml": "Farmers Delight Unify Configs",
+  "czfarmersdelightunify.configuration.section.czfarmersdelightunify.common.toml.title": "Farmers Delight Unify Configs",
+  "czfarmersdelightunify.configuration.items": "Item List",
+  "czfarmersdelightunify.configuration.logDirtBlock": "Log Dirt Block",
+  "czfarmersdelightunify.configuration.magicNumberIntroduction": "Magic Number Text",
+  "czfarmersdelightunify.configuration.magicNumber": "Magic Number",
+
+  "fluid_type.czfarmersdelightunify.mango_juice": "Mango Juice",
+  "block.czfarmersdelightunify.mango_juice": "Mango Juice",
+  "item.czfarmersdelightunify.mango_juice_bucket": "Mango Juice Bucket"
+}

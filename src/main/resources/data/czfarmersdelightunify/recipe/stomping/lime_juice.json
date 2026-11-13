@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "extradelight"
+    }
+  ],
+  "type": "hearthandharvest:stomping",
+  "ingredients": [
+    { "tag": "c:crops/lime" },
+    { "tag": "c:crops/lime" },
+    { "tag": "c:crops/lime" },
+    { "tag": "c:crops/lime" }
+  ],
+  "result_fluid": {
+    "amount": 500,
+    "id": "extradelight:lime_juice_fluid"
+  }
+}

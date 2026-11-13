@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "extradelight:lemon",
+      "required": false
+    }
+    {
+      "id": "extradelight:orange",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "extradelight"
+    }
+  ],
+  "type": "hearthandharvest:stomping",
+  "ingredients": [
+    { "tag": "c:crops/cactus" },
+    { "tag": "c:crops/cactus" },
+    { "tag": "c:crops/cactus" },
+    { "tag": "c:crops/cactus" }
+  ],
+  "result_fluid": {
+    "amount": 500,
+    "id": "extradelight:cactus_juice_fluid"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "fruitsdelight:orange",
+      "required": false
+    },
+    {
+      "id": "atmospheric:orange",
+      "required": false
+    },
+    {
+      "id": "extradelight:orange",
+      "required": false
+    }
+  ]
+}

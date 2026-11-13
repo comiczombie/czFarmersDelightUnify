@@ -1,0 +1,15 @@
+{
+  "type": "extradelight:juicer",
+  "chance": 25,
+  "fluidOut": {
+    "amount": 250,
+    "id": "hearthandharvest:green_grape_juice"
+  },
+  "ingredient": {
+    "tag": "c:fruits/green_grape"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:lime_dye"
+  }
+}

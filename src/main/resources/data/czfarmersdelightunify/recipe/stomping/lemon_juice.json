@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "extradelight"
+    }
+  ],
+  "type": "hearthandharvest:stomping",
+  "ingredients": [
+    { "tag": "c:crops/lemon" },
+    { "tag": "c:crops/lemon" },
+    { "tag": "c:crops/lemon" },
+    { "tag": "c:crops/lemon" }
+  ],
+  "result_fluid": {
+    "amount": 500,
+    "id": "extradelight:lemon_juice_fluid"
+  }
+}

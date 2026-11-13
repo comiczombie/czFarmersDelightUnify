@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "fruitsdelight:orange",
+      "required": false
+    },
+    {
+      "id": "atmospheric:orange",
+      "required": false
+    },
+  ]
+}

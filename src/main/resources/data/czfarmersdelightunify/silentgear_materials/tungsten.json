@@ -1,0 +1,108 @@
+{
+  "type": "silentgear:simple",
+  "parent": "silentgear:empty",
+  "crafting": {
+    "can_salvage": true,
+    "categories": [
+      "metal",
+      "intermediate"
+    ],
+    "gear_type_blacklist": [],
+    "ingredient": {"tag": "c:ingots/tungsten"},
+    "part_substitutes": {}
+  },
+  "display": {
+    "color": "#FFB8B888",
+    "equippable": {
+      "always_use_tint": true,
+      "asset_id": "silentgear:generic_shiny",
+      "compound_asset_id": "silentgear:generic_shiny",
+      "equip_sound": "minecraft:item.armor.equip_generic"
+    },
+    "main_texture_type": "HIGH_CONTRAST",
+    "name": {
+      "translate": "material.silentgear.tungsten"
+    },
+    "name_prefix": ""
+  },
+  "properties": {
+    "silentgear:main": {
+      "armor": 18.0,
+      "armor/boots": 3.0,
+      "armor/chestplate": 8.0,
+      "armor/helmet": 3.0,
+      "armor/leggings": 6.0,
+      "armor_durability": 22.0,
+      "attack_damage": 3.0,
+      "attack_speed": -0.15,
+      "attack_speed/axe": -0.25,
+      "attack_speed/hoe": -0.05,
+      "charging_value": 0.5,
+      "draw_speed": -0.1,
+      "durability": 1400.0,
+      "enchantment_value": 6.0,
+      "harvest_speed": 7.0,
+      "harvest_tier": {
+        "incorrect_blocks_for_tool": "silentgear:incorrect_for_netherite_tools",
+        "level_hint": "4",
+        "name": "tungsten"
+      },
+      "magic_armor": 2.0,
+      "magic_damage": 0.5,
+      "projectile_accuracy": 0.9,
+      "projectile_speed": 0.9,
+      "ranged_damage": 1.2,
+      "rarity": 45.0,
+      "traits": [
+        {
+          "conditions": [],
+          "level": 3,
+          "trait": "silentgear:brittle"
+        }
+      ]
+    },
+    "silentgear:rod": {
+      "traits": [
+        {
+          "conditions": [],
+          "level": 3,
+          "trait": "silentgear:brittle"
+        }
+      ]
+    },
+    "silentgear:tip": {
+      "armor_durability": {
+        "operation": "ADD",
+        "value": 12.0
+      },
+      "attack_damage": {
+        "operation": "ADD",
+        "value": 2.0
+      },
+      "durability": {
+        "operation": "ADD",
+        "value": 560.0
+      },
+      "harvest_speed": {
+        "operation": "ADD",
+        "value": 1.5
+      },
+      "harvest_tier": {
+        "incorrect_blocks_for_tool": "silentgear:incorrect_for_netherite_tools",
+        "level_hint": "4",
+        "name": "tungsten"
+      },
+      "rarity": {
+        "operation": "ADD",
+        "value": 18.0
+      },
+      "traits": [
+        {
+          "conditions": [],
+          "level": 3,
+          "trait": "silentgear:brittle"
+        }
+      ]
+    }
+  }
+}

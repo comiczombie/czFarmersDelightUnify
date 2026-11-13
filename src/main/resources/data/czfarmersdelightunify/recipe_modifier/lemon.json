@@ -1,0 +1,20 @@
+{
+  "target_recipes": "*",
+  "modifiers": [
+    {
+      "type": "add_alternative",
+      "ingredients": "fruitsdelight:lemon",
+      "alternative": { "tag": "c:fruits/lemon" }
+    },
+    {
+      "type": "add_alternative",
+      "ingredients": "extradelight:lemon",
+      "alternative": { "tag": "c:fruits/lemon" }
+    },
+    {
+      "type": "add_alternative",
+      "ingredients": "culturaldelights:lemon",
+      "alternative": { "tag": "c:fruits/lemon" }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    { 
+      "id": "extradelight:ground_coffee",
+      "required": false
+    }
+  ]
+}

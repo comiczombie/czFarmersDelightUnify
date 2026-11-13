@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "extradelight"
+    }
+  ],
+  "type": "hearthandharvest:stomping",
+  "ingredients": [
+    { "tag": "c:crops/tomato" },
+    { "tag": "c:crops/tomato" },
+    { "tag": "c:crops/tomato" },
+    { "tag": "c:crops/tomato" }
+  ],
+  "result_fluid": {
+    "amount": 500,
+    "id": "extradelight:tomato_juice_fluid"
+  }
+}

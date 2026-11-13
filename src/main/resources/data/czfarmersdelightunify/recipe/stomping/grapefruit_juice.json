@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "extradelight"
+    }
+  ],
+  "type": "hearthandharvest:stomping",
+  "ingredients": [
+    { "tag": "c:crops/grapefruit" },
+    { "tag": "c:crops/grapefruit" },
+    { "tag": "c:crops/grapefruit" },
+    { "tag": "c:crops/grapefruit" }
+  ],
+  "result_fluid": {
+    "amount": 500,
+    "id": "extradelight:grapefruit_juice_fluid"
+  }
+}

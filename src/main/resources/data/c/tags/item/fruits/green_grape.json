@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "hearthandharvest:green_grapes", "required": false }
+  ]
+}

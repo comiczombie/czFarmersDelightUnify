@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "extradelight"
+    }
+  ],
+  "type": "hearthandharvest:stomping",
+  "ingredients": [
+    { "tag": "c:crops/orange" },
+    { "tag": "c:crops/orange" },
+    { "tag": "c:crops/orange" },
+    { "tag": "c:crops/orange" }
+  ],
+  "result_fluid": {
+    "amount": 500,
+    "id": "extradelight:orange_juice_fluid"
+  }
+}
